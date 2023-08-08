@@ -1,9 +1,14 @@
 # naya
 •	An SQL script in the provided code produces several tables in a relational database. The attributes in each table, which each represent a different entity, explain the traits of that thing. 
+
 •	Attributes like User_id, First_name, Last_name, Address, Age, Contact_no, and Email are contained in the "User" table. Users of a taxi service can have their information stored in this table.
+
 •	Taxi_id, Registration_no, Model, Manufactured_year, Taxi_type, Status, and Owner_id are some of the elements in the "Taxi" table. Information on taxis, including their owners, can be kept in this table.
+
 •	Attributes in the "Owner" table include Owner_id, SSN, Name, and Company_id. Information on the taxi proprietors can be kept in this table.
+
 •	Attributes like Company_id, Tcs_id, and Tsc_name are contained in the "Company" table.
+
 •	This is an SQL query that inserts data into a table called "Login". The table has columns named "User_id", "Login_id", "Password", "Credit_card_no", and "Balance". 
 
 - The SELECT clause retrieves all columns from the "Bill" table.
